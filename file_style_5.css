@@ -1,0 +1,14 @@
+p {
+    background: yellow;
+    color: red;
+    font-size: 14pt;
+}
+hr {
+    width: 50%;
+    height: 5px;
+    color: green;
+}
+ 
+#Хочу-синий {  /*  Включение ID элемента в файле html  */
+    background: blue;
+}
